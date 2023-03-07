@@ -2,8 +2,6 @@ architectures:
   - id: default
     name: default
     structure:
-      - path: /
-        doc: index
 
       - title: Design system
         subpaths:
