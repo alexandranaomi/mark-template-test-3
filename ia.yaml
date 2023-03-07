@@ -5,12 +5,11 @@ architectures:
       - path: /
         doc: index
 
-      - path: example-docs
-        doc: example-docs/index
+      - title: Design system
         subpaths:
-          - title: Subpages
-            subpaths:
-              - path: first-subpage
-                doc: example-docs/first-subpage
-          - path: another-page
-            doc: example-docs/another-page
+          - title: Components
+            path: design-system/components
+            doc: 03-design-system/01-components/01-components
+          - title: Modules
+            path: design-system/modules
+            doc: 03-design-system/02-modules/01-modules 

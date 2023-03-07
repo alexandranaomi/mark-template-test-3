@@ -1,10 +1,6 @@
-paths:
-  - name: assets
-    path: assets
-
 iaFile: ./ia.yaml
 
-title: Customizable title
+title: Submodules Test
 
 htmlCustomization:
   path: ./htmlCustomization.html
